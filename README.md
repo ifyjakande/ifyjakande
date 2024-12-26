@@ -86,6 +86,12 @@ Cryptocurrency market monitoring and alert system
 - Mentored 40+ data professionals in technical best practices
 - Implemented uplift modeling improving resource allocation by 30%
 
+**Full Stack Data Engineer** @ Pullus Africa *(2024 - Present)*
+- Reduced data processing time by 75% through stock management pipeline automation
+- Improved data accuracy to 95% with robust cleaning protocols
+- Achieved 90% pipeline uptime, saving 20 hours weekly in manual updates
+- Implemented interactive Looker Studio dashboards boosting decision-making speed by 60%
+
 **Data Quality Engineer** @ Vendease *(2023 - 2024)*
 - Reduced data discrepancies by 80% through automated validation
 - Engineered real-time monitoring reducing issue resolution time by 60%
