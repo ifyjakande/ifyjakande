@@ -49,31 +49,31 @@ Data Engineering professional with 5+ years of experience architecting end-to-en
 
 ## Signature Projects
 
-### [DataFlow: AWS Redshift & Airflow ETL Pipeline](https://github.com/ifyjakande/crime_dwelling_pipeline)
+### [AWS Redshift & Airflow ETL Pipeline](https://github.com/ifyjakande/crime_dwelling_pipeline)
 Modern data pipeline for Northern Ireland crime and housing analytics
 - Built with Apache Airflow, Amazon S3, DBT, and Redshift
 - Automated ETL processes with 95% data validation accuracy
 - Achieved 90% pipeline uptime in production
 
-### [DataHub: DBT Transformation Pipeline](https://github.com/ifyjakande/northern-ireland-etl)
+### [DBT Transformation Pipeline](https://github.com/ifyjakande/northern-ireland-etl)
 Advanced analytics solution for Northern Ireland crime statistics
 - Implemented DBT models for complex data transformations
 - Created district-level analytics dashboards
 - Reduced query processing time by 60%
 
-### [DataLake: AWS & Airflow Pipeline](https://github.com/ifyjakande/reddit_project)
+### [AWS & Airflow Pipeline](https://github.com/ifyjakande/reddit_project)
 Automated Reddit data collection and processing system
 - Integrated Reddit API with AWS services
 - Implemented S3 data lake architecture
 - Processes millions of records with robust error handling
 
-### [DataStack: AWS Redshift & DBT Warehouse](https://github.com/ifyjakande/redshift_datawarehouse_project)
+### [AWS Redshift & DBT Warehouse](https://github.com/ifyjakande/redshift_datawarehouse_project)
 End-to-end data warehouse implementation
 - Designed optimized star schema architecture
 - Built automated data quality frameworks
 - Reduced compute costs by 40% through incremental processing
 
-### [CryptoWatch: Real-time Analytics Bot](https://github.com/ifyjakande/crypto_alert)
+### [Real-time Analytics Bot](https://github.com/ifyjakande/crypto_alert)
 Cryptocurrency market monitoring and alert system
 - Tracks top 100 cryptocurrencies in real-time
 - Provides automated Slack alerts for market insights
