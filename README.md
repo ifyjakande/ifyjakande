@@ -5,7 +5,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ladi_akande)
 
 ## Professional Summary
-Data Engineering professional with 4+ years of experience architecting end-to-end data solutions. Demonstrated expertise in:
+Data Engineering professional with 5+ years of experience architecting end-to-end data solutions. Demonstrated expertise in:
 - Reducing data processing time by 75% through automated pipelines
 - Improving data accuracy to 95% via robust quality protocols
 - Achieving 90% pipeline uptime in production environments
@@ -14,13 +14,15 @@ Data Engineering professional with 4+ years of experience architecting end-to-en
 ## Technical Expertise
 
 ### Data Engineering & Cloud
-<div align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="airflow" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+<div align="left" style="background-color: #0d1117; padding: 10px; border-radius: 6px; margin-bottom: 10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40" style="margin-right: 10px;"/>
+<img src="https://raw.githubusercontent.com/apache/airflow/main/docs/apache-airflow/img/logos/airflow_white_bg.png" alt="airflow" width="40" height="40" style="margin-right: 10px;"/>
+<img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40" style="margin-right: 10px;"/>
+<img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks" width="40" height="40" style="margin-right: 10px;"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" style="margin-right: 10px;"/>
+<img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40" style="margin-right: 10px;"/>
+<img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40" style="margin-right: 10px;"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" style="margin-right: 10px;"/>
 </div>
 
 - **Cloud Platforms:** AWS (Lambda, EC2, S3, Redshift), Azure (Functions, Logic Apps, Event Grid, Event Hub), GCP (BigQuery, Cloud Functions)
@@ -29,12 +31,15 @@ Data Engineering professional with 4+ years of experience architecting end-to-en
 - **Big Data:** Azure Databricks, Azure HDInsight, Azure Stream Analytics, PySpark, EMR
 
 ### Development & Databases
-<div align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
+<div align="left" style="background-color: #0d1117; padding: 10px; border-radius: 6px; margin-bottom: 10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 10px;"/>
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40" style="margin-right: 10px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" style="margin-right: 10px;"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right: 10px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40" style="margin-right: 10px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" style="margin-right: 10px;"/>
+<img src="https://raw.githubusercontent.com/fastapi/fastapi/master/docs/en/docs/img/icon-white.svg" alt="fastapi" width="40" height="40" style="margin-right: 10px;"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="margin-right: 10px;"/>
 </div>
 
 - **Languages:** Python, SQL, Bash
@@ -44,23 +49,35 @@ Data Engineering professional with 4+ years of experience architecting end-to-en
 
 ## Signature Projects
 
-### [DataFlow: Enterprise ETL Pipeline](https://github.com/ifyjakande/crime_dwelling_pipeline)
-Advanced data pipeline leveraging AWS Redshift & Airflow
-- Automated ETL processes reducing manual intervention by 80%
-- Implemented real-time data validation with 95% accuracy
-- Scaled to process 100M+ records monthly
+### [DataFlow: AWS Redshift & Airflow ETL Pipeline](https://github.com/ifyjakande/crime_dwelling_pipeline)
+Modern data pipeline for Northern Ireland crime and housing analytics
+- Built with Apache Airflow, Amazon S3, DBT, and Redshift
+- Automated ETL processes with 95% data validation accuracy
+- Achieved 90% pipeline uptime in production
 
-### [DataStack: Cloud Data Warehouse](https://github.com/ifyjakande/redshift_datawarehouse_project)
-Production-grade data warehouse using AWS Redshift & DBT
-- Designed star schema optimized for analytical queries
-- Implemented incremental processing reducing compute costs by 40%
-- Automated data quality checks ensuring 99.9% data reliability
+### [DataHub: DBT Transformation Pipeline](https://github.com/ifyjakande/northern-ireland-etl)
+Advanced analytics solution for Northern Ireland crime statistics
+- Implemented DBT models for complex data transformations
+- Created district-level analytics dashboards
+- Reduced query processing time by 60%
 
-### [CryptoWatch: Real-time Analytics](https://github.com/ifyjakande/crypto_alert)
-Cryptocurrency market monitoring system with automated alerts
-- Built real-time data pipeline processing 1000+ transactions/second
-- Implemented machine learning models for price prediction
-- Reduced alert latency to under 5 seconds
+### [DataLake: AWS & Airflow Pipeline](https://github.com/ifyjakande/reddit_project)
+Automated Reddit data collection and processing system
+- Integrated Reddit API with AWS services
+- Implemented S3 data lake architecture
+- Processes millions of records with robust error handling
+
+### [DataStack: AWS Redshift & DBT Warehouse](https://github.com/ifyjakande/redshift_datawarehouse_project)
+End-to-end data warehouse implementation
+- Designed optimized star schema architecture
+- Built automated data quality frameworks
+- Reduced compute costs by 40% through incremental processing
+
+### [CryptoWatch: Real-time Analytics Bot](https://github.com/ifyjakande/crypto_alert)
+Cryptocurrency market monitoring and alert system
+- Tracks top 100 cryptocurrencies in real-time
+- Provides automated Slack alerts for market insights
+- Implemented advanced market analysis algorithms
 
 ## Professional Experience
 
@@ -77,7 +94,6 @@ Cryptocurrency market monitoring system with automated alerts
 ## Education & Certifications
 - MBA, Obafemi Awolowo University
 - B.Sc. Computer Science with Economics
-- AWS Certified Solutions Architect
 - Data Science Nigeria Bootcamp
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ifyjakande&show_icons=true&count_private=true&theme=tokyonight)
