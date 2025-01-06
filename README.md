@@ -62,6 +62,12 @@ End-to-end retail sales data pipeline and analytics dashboard
 - Built interactive Streamlit dashboard with dynamic visualizations
 - Integrated Azure Synapse Analytics for efficient data warehousing
 
+### [Real-time Analytics Bot](https://github.com/ifyjakande/crypto_alert)
+Cryptocurrency market monitoring and alert system
+- Tracks top 100 cryptocurrencies in real-time
+- Provides automated Slack alerts for market insights
+- Implemented advanced market analysis algorithms
+
 ### [DBT Transformation Pipeline](https://github.com/ifyjakande/northern-ireland-etl)
 Advanced analytics solution for Northern Ireland crime statistics
 - Implemented DBT models for complex data transformations
@@ -79,12 +85,6 @@ End-to-end data warehouse implementation
 - Designed optimized star schema architecture
 - Built automated data quality frameworks
 - Reduced compute costs by 40% through incremental processing
-
-### [Real-time Analytics Bot](https://github.com/ifyjakande/crypto_alert)
-Cryptocurrency market monitoring and alert system
-- Tracks top 100 cryptocurrencies in real-time
-- Provides automated Slack alerts for market insights
-- Implemented advanced market analysis algorithms
 
 ## Professional Experience
 
