@@ -81,18 +81,6 @@ Advanced analytics solution for Northern Ireland crime statistics
 - Created district-level analytics dashboards
 - Reduced query processing time by 60%
 
-### [AWS & Airflow Pipeline](https://github.com/ifyjakande/reddit_project)
-Automated Reddit data collection and processing system
-- Integrated Reddit API with AWS services
-- Implemented S3 data lake architecture
-- Processes millions of records with robust error handling
-
-### [AWS Redshift & DBT Warehouse](https://github.com/ifyjakande/redshift_datawarehouse_project)
-End-to-end data warehouse implementation
-- Designed optimized star schema architecture
-- Built automated data quality frameworks
-- Reduced compute costs by 40% through incremental processing
-
 ## Professional Experience
 
 **Data Science Consultant** @ Dwrangler Analytics *(2021 - Present)*
