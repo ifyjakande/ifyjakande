@@ -68,6 +68,13 @@ Cryptocurrency market monitoring and alert system
 - Provides automated Slack alerts for market insights
 - Implemented advanced market analysis algorithms
 
+### [FinFlow Analytics - BigQuery & dbt Pipeline](https://github.com/ifyjakande/finflow-analytics)
+Modern financial data warehouse solution implementing dimensional modeling with GCP
+- Orchestrated end-to-end pipeline using Apache Airflow, GCP, and dbt
+- Implemented robust dimensional data model optimized for analytical queries
+- Automated data quality checks and validations across pipeline stages
+- Designed scalable architecture handling customer, account, and transaction analytics
+
 ### [DBT Transformation Pipeline](https://github.com/ifyjakande/northern-ireland-etl)
 Advanced analytics solution for Northern Ireland crime statistics
 - Implemented DBT models for complex data transformations
