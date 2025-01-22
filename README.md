@@ -55,6 +55,12 @@ Modern data pipeline for Northern Ireland crime and housing analytics
 - Automated ETL processes with 95% data validation accuracy
 - Achieved 90% pipeline uptime in production
 
+### [DBT Transformation Pipeline](https://github.com/ifyjakande/northern-ireland-etl)
+Advanced analytics solution for Northern Ireland crime statistics
+- Implemented DBT models for complex data transformations
+- Created district-level analytics dashboards
+- Reduced query processing time by 60%
+
 ### [Azure Synapse, Airflow, Kafka & Streamlit Sales Analytics Platform](https://github.com/ifyjakande/sales-dashboard-streamlit)
 End-to-end retail sales data pipeline and analytics dashboard
 - Orchestrated ETL pipeline using Airflow on Docker and Azure VM
@@ -75,11 +81,7 @@ Modern financial data warehouse solution implementing dimensional modeling with 
 - Automated data quality checks and validations across pipeline stages
 - Designed scalable architecture handling customer, account, and transaction analytics
 
-### [DBT Transformation Pipeline](https://github.com/ifyjakande/northern-ireland-etl)
-Advanced analytics solution for Northern Ireland crime statistics
-- Implemented DBT models for complex data transformations
-- Created district-level analytics dashboards
-- Reduced query processing time by 60%
+
 
 ## Professional Experience
 
