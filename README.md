@@ -86,7 +86,7 @@ End-to-end pipeline for agricultural yield analytics and recommendations
 - Engineered data pipeline using AWS S3, Databricks, and MongoDB Atlas
 - Implemented automated ETL processing with PySpark for yield trends analysis
 - Integrated MongoDB for intelligent recommendation storage and retrieval  
-- Built dynamic visualizations for cross-country agricultural metrics
+
 
 
 
