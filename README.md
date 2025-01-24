@@ -81,6 +81,13 @@ Modern financial data warehouse solution implementing dimensional modeling with 
 - Automated data quality checks and validations across pipeline stages
 - Designed scalable architecture handling customer, account, and transaction analytics
 
+### [Agricultural Data Pipeline with AWS S3, Databricks & MongoDB](https://github.com/ifyjakande/reco-system)
+End-to-end pipeline for agricultural yield analytics and recommendations
+- Engineered data pipeline using AWS S3, Databricks, and MongoDB Atlas
+- Implemented automated ETL processing with PySpark for yield trends analysis
+- Integrated MongoDB for intelligent recommendation storage and retrieval  
+- Built dynamic visualizations for cross-country agricultural metrics
+
 
 
 ## Professional Experience
