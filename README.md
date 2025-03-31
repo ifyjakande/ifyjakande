@@ -49,6 +49,12 @@ Data Engineering professional with 5+ years of experience architecting end-to-en
 
 ## Signature Projects
 
+### [Media Analytics Data Lake on AWS](https://github.com/ifyjakande/aws-media-analytics-data-lake)
+Serverless data lake for streaming media analytics
+- Built with AWS S3, Glue, Step Functions, EventBridge, and SNS
+- Automated ETL pipeline with KMS encryption for data security
+- End-to-end infrastructure as code using Terraform
+
 ### [AWS Redshift & Airflow ETL Pipeline](https://github.com/ifyjakande/crime_dwelling_pipeline)
 Modern data pipeline for Northern Ireland crime and housing analytics
 - Built with Apache Airflow, Amazon S3, DBT, and Redshift
