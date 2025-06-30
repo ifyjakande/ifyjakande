@@ -16,7 +16,7 @@ Data Engineering professional with 5+ years of experience architecting end-to-en
 ### Data Engineering & Cloud
 <div align="left" style="background-color: #0d1117; padding: 10px; border-radius: 6px; margin-bottom: 10px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40" style="margin-right: 10px;"/>
-<img src="https://raw.githubusercontent.com/apache/airflow/main/docs/apache-airflow/img/logos/airflow_white_bg.png" alt="airflow" width="40" height="40" style="margin-right: 10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="airflow" width="40" height="40" style="margin-right: 10px;"/>
 <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40" style="margin-right: 10px;"/>
 <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks" width="40" height="40" style="margin-right: 10px;"/>
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" style="margin-right: 10px;"/>
